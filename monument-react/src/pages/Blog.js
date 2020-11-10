@@ -5,11 +5,13 @@ import Article from '../components/BlogArticle';
 
 
 
+
 const Blog = (props) => {
     return (
         <div>
             <Header />
             <Article />
+            
             
         </div>
     )
