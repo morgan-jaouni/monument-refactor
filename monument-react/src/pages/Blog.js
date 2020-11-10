@@ -11,8 +11,6 @@ const Blog = (props) => {
         <div>
             <Header />
             <Article />
-            
-            
         </div>
     )
 }

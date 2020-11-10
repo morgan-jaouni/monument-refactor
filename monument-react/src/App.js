@@ -12,16 +12,14 @@ import Footer from './components/LandingFooter';
 function App() {
   return (
     <div className="App">
-      {/* <Landing /> */}
-      {/* <Article /> */}
-      {/* <About /> */}
-      {/* <Gallery /> */}
-      {/* <Contact /> */}
+      <Landing /> 
+      <Article /> 
+      <About /> 
+      <Gallery /> 
+      <Contact /> 
 
 
       <Blog />
-
-
       <Navbar />
       <Footer />
     </div>
